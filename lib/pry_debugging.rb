@@ -1,5 +1,5 @@
 def plus_two(num)
-report = num += 2
-report
+var1 = num + 2
+var1
 	binding.pry
 end
