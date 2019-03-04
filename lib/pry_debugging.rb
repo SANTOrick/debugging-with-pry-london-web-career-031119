@@ -1,5 +1,5 @@
 def plus_two(num)
-	report = num += 2
-	report
+num += 2
+num
 	binding.pry
 end
